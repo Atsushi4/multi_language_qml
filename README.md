@@ -1,4 +1,4 @@
-# qml
+# multi_language_qml
 
 Dynamic language switch example for Qt Quick application.
 
